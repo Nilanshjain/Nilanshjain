@@ -2,10 +2,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nilansh-jainb32093303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nilansh-jain-b32093303)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/nilanshjain/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Nilanshjain)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nilansh.jain@somaiya.edu)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nilanshjain0306@gmail.com)
 
 </div>
 
